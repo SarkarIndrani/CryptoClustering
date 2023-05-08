@@ -3,7 +3,7 @@
 ---
 ### Machine Learning
 
-Machine learning is the practice of applying computer algorithms and statistics to create models that can learn from past data and then make decisions of predictions about future data. Algorithms learn how to make decisions without meeding anyone to program the logic directly. They learn the patterns, behavior, and relationships on their own directly from the data, and then they use that knowledge to make decisions and predictions.
+Machine learning is the practice of applying computer algorithms and statistics to create models that can learn from past data and then make decisions or predictions about future data. Algorithms learn how to make decisions without needing anyone to program the logic directly. They learn the patterns, behavior, and relationships on their own directly from the data, and then they use that knowledge to make decisions and predictions.
 
 Some Examples:
 - Image recognition
